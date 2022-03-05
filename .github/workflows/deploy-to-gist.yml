@@ -1,0 +1,22 @@
+name: Deploy to Gist
+
+on:
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Deploy
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: a9d021c9b24d5daae960c44d8776dd47
+          gist_description: "https://registry.jsonresume.org/martinbmnt"
+          gist_file_name: resume.json
+          file_path: ./resume.json
