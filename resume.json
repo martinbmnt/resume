@@ -25,6 +25,28 @@
       "region": "France"
     }
   },
+  "skills": [
+    {
+      "keywords": [
+        "Symfony 4 / 5 / 6",
+        "PHP 7 / 8",
+        "MySQL / MariaDB"
+      ],
+      "level": "Advanced",
+      "name": "Backend",
+      "yearsOfExperience": 5
+    },
+    {
+      "keywords": [
+        "HTML / Semantic / Accessibility",
+        "CSS / SCSS / BEM / Tailwind CSS",
+        "Javascript / Typescript"
+      ],
+      "level": "Advanced",
+      "name": "Frontend",
+      "yearsOfExperience": 5
+    }
+  ],
   "meta": {
     "theme": "flat",
     "canonical": "https://raw.githubusercontent.com/martinbmnt/resume/main/resume.json",
