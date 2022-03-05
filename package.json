@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "JSON Resume environment",
+  "main": "index.js",
+  "repository": "https://github.com/martinbmnt/resume",
+  "author": "Martin Beaumont",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "resume-cli": "^3.0.6"
+  }
+}
