@@ -2,8 +2,16 @@
   "basics": {
     "name": "Martin Beaumont",
     "label": "Web Developer",
+    "image": "",
     "email": "hello@martinbeaumont.dev",
     "website": "https://martinbeaumont.dev/",
+    "url": "https://martinbeaumont.dev/",
+    "summary" : "Martin Beaumont from Laval, France. He has earned degrees from the University of Le Mans (but studied in Laval). Before becoming a freelancer, he did two work-study contracts as Web Developer.",
+    "location": {
+      "city": "Laval",
+      "countryCode": "FR",
+      "region": "France"
+    },
     "profiles": [
       {
         "network": "GitHub",
@@ -15,15 +23,7 @@
         "url": "https://twitter.com/@martinbmnt",
         "username": "@martinbmnt"
       }
-    ],
-    "headline": "Building decentralized internet for everyone",
-    "yearsOfExperience": 4,
-    "username": "martinbmnt",
-    "location": {
-      "city": "Laval",
-      "countryCode": "FR",
-      "region": "France"
-    }
+    ]
   },
   "skills": [
     {
