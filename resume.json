@@ -77,6 +77,16 @@
       "yearsOfExperience": 5
     }
   ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional speaker"
+    }
+  ],
   "meta": {
     "theme": "flat",
     "canonical": "https://raw.githubusercontent.com/martinbmnt/resume/main/resume.json",
