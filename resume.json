@@ -27,7 +27,7 @@
   },
   "meta": {
     "theme": "flat",
-    "canonical": "https://gist.githubusercontent.com/martinbmnt/a9d021c9b24d5daae960c44d8776dd47/raw/07bc890c378c23e2edaf179425f0c0a89cb596fb/resume.json",
+    "canonical": "https://raw.githubusercontent.com/martinbmnt/resume/main/resume.json",
     "lastModified": "2022-03-05T18:43:00"
   },
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
