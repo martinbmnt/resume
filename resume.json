@@ -25,6 +25,36 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Le Mans",
+      "url": "http://univ-lemans.fr/",
+      "area": "Web Applications Developer",
+      "studyType": "Bachelor Degree",
+      "startDate": "2019-09-09",
+      "endDate": "2020-09-02",
+      "score": "16.5",
+      "courses": [
+        "Symfony",
+        "React",
+        "Docker"
+      ]
+    },
+    {
+      "institution": "University of Le Mans",
+      "url": "http://univ-lemans.fr/",
+      "area": "Internet and Multimedia Technologies",
+      "studyType": "Undergraduate Technical Degree",
+      "startDate": "2017-09-04",
+      "endDate": "2019-08-26",
+      "score": "15",
+      "courses": [
+        "Web Development / IT",
+        "Communication / Marketing",
+        "Media / Audiovisual"
+      ]
+    }
+  ],
   "skills": [
     {
       "keywords": [
