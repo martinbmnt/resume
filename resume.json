@@ -1,7 +1,32 @@
 {
   "basics": {
     "name": "Martin Beaumont",
-    "url": "https://martinbeaumont.dev",
-    "label": "Freelance Web Developer"
+    "label": "Web Developer",
+    "email": "hello@martinbeaumont.dev",
+    "phone": "+33 (0) 6 48 83 78 41",
+    "url": "https://martinbeaumont.dev/",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/martinbmnt",
+        "username": "martinbmnt"
+      },
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/@martinbmnt",
+        "username": "@martinbmnt"
+      }
+    ],
+    "headline": "Building decentralized internet for everyone",
+    "yearsOfExperience": 4,
+    "username": "martinbmnt",
+    "location": {
+      "city": "Laval",
+      "countryCode": "FR",
+      "region": "France"
+    }
+  },
+  "meta": {
+    "theme": "flat"
   }
 }
