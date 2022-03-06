@@ -25,6 +25,48 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "Freelance",
+      "location": "Laval, FR",
+      "position": "Web Developer - Freelance",
+      "url": "https://martinbeaumont.dev",
+      "startDate": "2020-09-01",
+      "summary": "As a freelance, I work with medium-sized companies and artists to create custom CMS and CRM with Symfony, WordPress websites, or mail integration. I always keep in mind good accessibility and performances practices to build better websites.",
+      "highlights": [
+        "Creation, maintenance, and evolution of a stock and booking management system for a audiovisual equipment rental company",
+        "Development of web portfolio for various artists"
+      ]
+    },
+    {
+      "name": "Luminess, formerly Jouve",
+      "location": "Mayenne, FR",
+      "description": "Luminess is a major player in the French digital ecosystem, their teams combine expertise and broad business knowledge with robust technological know-how.",
+      "position": "Web Developer – Work-study contract",
+      "url": "https://luminess.eu/",
+      "startDate": "2019-09-02",
+      "endDate": "2020-09-02",
+      "summary": "At Jouve, with a team of 16 people called \"Web CMS\", I worked on various projects from webservices development for banks to custom CMS creation for an open-data site of the French government.",
+      "highlights": [
+        "Work on the CMS and open-data processes for poem.travail-emploi.gouv.fr",
+        "Build microservices with Symfony 2 / 4 for bank documents management"
+      ]
+    },
+    {
+      "name": "Maine Image Santé",
+      "location": "Le Mans, FR",
+      "description": "Maine Image Santé is a radiology and medical imaging company, based in Le Mans and other towns around.",
+      "position": "Web Developer – Work-study contract",
+      "url": "https://72mis.fr/",
+      "startDate": "2018-08-27",
+      "endDate": "2019-08-30",
+      "summary": "I worked in the IT team of Maine Image Santé, with 3 IT managers, to create a new version of their website. I've realized meetings with healt specialists to undertstand their needs and write medical exams description articles.",
+      "highlights": [
+        "Build a WordPress website, with a custom-made theme",
+        "Project management with health specialists, articles writing"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Le Mans",
