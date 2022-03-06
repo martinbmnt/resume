@@ -139,6 +139,63 @@
       "reference": "A multi-skilled web developer ! Martin is very professional, responsive and attentive to the customer! He was able to meet my expectations as needed. A pleasure to work with him, I can only recommend him !"
     }
   ],
+  "projects": [
+    {
+      "name": "SosCine",
+      "description": "SosCine is an audiovisual equipment rental company in Paris. With over 6,500 rentals completed in 2021, my job is to add new features, improve workflows, and ensure the proper fucntioning of the application.",
+      "highlights": [
+        "Custom-made Web application based on Symfony",
+        "Manages stocks, bookings, invoices, supports and more",
+        "Actively maintained and evolved since the beginning of the project"
+      ],
+      "keywords": [
+        "Portfolio",
+        "Symfony",
+        "Typescript"
+      ],
+      "startDate": "2020-06-01",
+      "url": "https://soscine.fr",
+      "roles": ["Web Developer", "Product Manager"],
+      "type": "website"
+    },
+    {
+      "name": "Thommy' portfolio",
+      "description": "Thommy is a motion designer, working mainly for French streamers. After a first version in 2018, he asked me to do a new version of his web portfolio.",
+      "highlights": [
+        "Custom-made CMS based on Symfony",
+        "Dark-mode and mobile-first design, using Tailwind CSS"
+      ],
+      "keywords": [
+        "Portfolio",
+        "Symfony",
+        "Typescript"
+      ],
+      "startDate": "2021-02-01",
+      "endDate": "2021-02-28",
+      "url": "https://thommyart.fr",
+      "roles": ["Web Developer"],
+      "type": "website"
+    },
+    {
+      "name": "Thurb' portfolio",
+      "description": "Thurb is a graphic designer, doing illustrations for various content creator, store, or places. In 2020, he asked me to build his web portfolio based on its models.",
+      "highlights": [
+        "Build on WordPress with a custom-made theme, using Advanced Custom Fields",
+        "Cache highly optimized on client and server sides, to accept a large amount of simultaneous requests",
+        "Using modern CSS features such as Grid display and Scroll Snap"
+      ],
+      "keywords": [
+        "Portfolio",
+        "WordPress",
+        "SASS"
+      ],
+      "startDate": "2020-12-01",
+      "endDate": "2020-12-31",
+      "url": "https://thurbwork.com",
+      "roles": ["Web Developer"],
+      "type": "website"
+    }
+  ],
   "meta": {
     "theme": "flat",
     "canonical": "https://raw.githubusercontent.com/martinbmnt/resume/main/resume.json",
