@@ -129,6 +129,16 @@
       "fluency": "Professional speaker"
     }
   ],
+  "references": [
+    {
+      "name": "Thomas Brunet - Thommy",
+      "reference": "I contacted Martin for the realization of my website during the year. My request was precise and he was able to answer it perfectly. Despite the returns that were sometimes out of budget, they were carried out without problem. And above all the responsiveness and the deadlines for completion make him an excellent professional"
+    },
+    {
+      "name": "Louis Roy - Thurb",
+      "reference": "A multi-skilled web developer ! Martin is very professional, responsive and attentive to the customer! He was able to meet my expectations as needed. A pleasure to work with him, I can only recommend him !"
+    }
+  ],
   "meta": {
     "theme": "flat",
     "canonical": "https://raw.githubusercontent.com/martinbmnt/resume/main/resume.json",
