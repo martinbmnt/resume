@@ -129,6 +129,23 @@
       "fluency": "Professional speaker"
     }
   ],
+  "interests": [
+    {
+      "name": "Web",
+      "keywords": [
+        "Accessibility",
+        "Performance",
+        "Good practices"
+      ]
+    },
+    {
+      "name": "Bike",
+      "keywords": [
+        "Bicycle maintenance",
+        "Help to repair"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Thomas Brunet - Thommy",
